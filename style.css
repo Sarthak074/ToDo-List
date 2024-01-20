@@ -38,6 +38,7 @@ h2 img {
 
 .row {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   outline: 3px groove black;
